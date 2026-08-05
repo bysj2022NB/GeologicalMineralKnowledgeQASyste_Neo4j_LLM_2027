@@ -1,0 +1,2 @@
+# GeologicalMineralKnowledgeQASyste_Neo4j_LLM_2027
+计算机毕业设计基于知识图谱(Neo4j)和大语言模型(LLM)的图检索增强(GraphRAG)的地质矿产知识管理智能问答系统 人工智能 大模型毕业设计
